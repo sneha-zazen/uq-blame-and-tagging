@@ -1,0 +1,6 @@
+This file is a blame file.
+
+
+I'm writing multiple lines and you should be able to see who they're written by.
+
+git blame is a command that displays information regarding the authership and commit details for each individual line in a file.
