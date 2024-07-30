@@ -6,3 +6,4 @@ I'm writing multiple lines and you should be able to see who they're written by.
 git blame is a command that displays information regarding the authership and commit details for each individual line in a file.
 
 I'm adding in a few more lines down here, because I need to add a new feature.
+git blame -L 3,5 blame_file.txt
